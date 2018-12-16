@@ -1,6 +1,6 @@
-@import url(https://fonts.googleapis.com/css?family=Roboto);
 
-*{
+
+body{
     font-family: 'Roboto', sans-serif;
 }
 
@@ -38,7 +38,7 @@
     padding-left: 8px;
     padding-right: 8px;
     padding-bottom: 4px;
-    margin: 4px;
+    margin: 8px;
     border-color: lightgrey;
     border-style: solid;
     border-width: thin;
@@ -47,11 +47,9 @@
 .unordered_list {
     list-style: none;
     padding: 0;
-
 }
 
 @font-face {
     font-family: myFirstFont;
-
     font-weight: bold;
 }
